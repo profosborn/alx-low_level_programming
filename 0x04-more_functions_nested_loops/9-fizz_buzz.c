@@ -4,7 +4,7 @@
  * main - Almighty Fizzbuzz, prints numbers from 1 to 100,
  *        but any numbers which is multiple of 3, print Fizz,
  *        and any numbers which is multiple of 5 print Buzz,
- *        and numbers both multiple of 3 & 5,print FizzBuzz.
+ *        and numbers both multiple of 3 and 5,print FizzBuzz.
  *
  * Return: 0 if true.
  */
