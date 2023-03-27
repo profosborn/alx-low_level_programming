@@ -7,7 +7,7 @@
  *
  * Return: 98 as a value updates to the current value.
  */
- 
+
 void reset_to_98(int *n)
 {
 	*n = 98;
