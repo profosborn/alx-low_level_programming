@@ -11,7 +11,7 @@
  * enclosing the files  contentinbetween ifndef,define and endif,
  * stops the compiler from processing the file twice if its included twice,
  * if not so, this will cause an error
- * */
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
