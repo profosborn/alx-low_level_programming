@@ -10,7 +10,7 @@
  * Return: returs @dest.
  */
 
-char *_memcpy(char *dest, char *src, unsigned int n)
+char *my_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int i;
 
