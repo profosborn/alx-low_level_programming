@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Low-Level Programming - Data Structures, Algorithms, Linux/Unix System Programming
 
 This repository contains programs written for the low-level programming and algorithm track at ALX-Africa SE. In these projects, which  occurred throughout the duration of the Year 1 curriculum, I learned about data structures, algorithms, and other low-level programming concepts while working in the C language. The specific list of projects contained follows:
@@ -27,6 +26,10 @@ This repository contains programs written for the low-level programming and algo
 * [0x15. C - File I/O](./0x15-file_io)
 * [0x16. C - Simple Shell](https://github.com/profosborn/simple_shell/tree/master)
 * [0x17. C - Doubly linked lists](./0x17-doubly_linked_lists)
+* [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)
+* [0x19. C - Stacks, Queues - LIFO, FIFO](https://github.com/Lexxyla/monty/tree/main)
+* [0x1A. C - Hash tables](./0x1A-hash_tables)
+* [0x1C. C - Makefiles](./0x1C-makefiles)
 
 
 ## Author :black_nib:
